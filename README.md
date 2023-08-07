@@ -1,4 +1,4 @@
-# description 
+# Description 
 A user-friendly interface for performing basic arithmetic calculations. Built using the React.js library, this calculator enables users to add, subtract, multiply, and divide numbers with ease.
 
 ## PREVIEW
